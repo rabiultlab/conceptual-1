@@ -1,3 +1,18 @@
-h1{
-    color:turquoise;
+*{
+    margin: 0;
+    padding: 0
+    ;
+}
+.hero{
+    background-image: url('../images/cow.jpg');
+    height: 100vh;
+    background-position: bottom center;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero h1{
+    color:black;
+    font-size: 100px;
+    font-style: bold;
+    text-align: center;
 }
